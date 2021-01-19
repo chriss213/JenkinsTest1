@@ -3,7 +3,7 @@
   <groupId>eu.linkedbusiness.jenkins.test</groupId>
   <artifactId>JenkinsTest1</artifactId>
   <packaging>jar</packaging>
-  <version>0.0.4</version>
+  <version>0.0.5</version>
   <name>JenkinsTest1</name>
   <url>http://maven.apache.org</url>
    <properties>
